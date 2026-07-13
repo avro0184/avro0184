@@ -4,7 +4,7 @@
 
 ### 🚀 Founder & CEO of AmarProsno
 
-### 💻 Full Stack Engineer • AI Enthusiast • EdTech Innovator
+### 💻 Full-Stack Software Engineer • AI Application Developer • EdTech Builder
 
 <p align="center">
 
@@ -29,45 +29,121 @@
 ```yaml
 Name: Md. Jahidul Islam
 Role: Founder & CEO @ AmarProsno
-Focus: Full Stack Development & AI Systems
-Location: Comilla, Bangladesh
+Focus: Full-Stack Engineering, AI Applications & EdTech
+Location: Dhaka, Bangladesh
+Education: B.Sc. in Computer Science & Engineering
+University: Comilla University
 ```
 
-I’m passionate about building modern digital platforms that solve real-world educational problems through technology.
+I'm a Full-Stack Software Engineer passionate about building scalable products that solve real-world problems through technology.
 
-Currently leading **AmarProsno**, an intelligent EdTech platform focused on:
+Currently, I lead **AmarProsno**, an AI-powered educational platform that combines intelligent learning, institution management, exam automation, and analytics into one ecosystem.
 
-* 📚 Smart Question Generation
-* 🤖 AI Assisted Learning
-* 📊 OMR & Exam Analytics
-* 🏫 Institution Management Systems
-* 🚀 Scalable SaaS Applications
+### My current focus
+
+- 🤖 AI-powered Educational Applications
+- 📚 Smart Question Generation
+- 🏫 Institution ERP Solutions
+- 📊 OMR & Exam Analytics
+- 📱 Cross-platform Mobile Applications
+- ☁️ Scalable SaaS Architecture
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,docker,linux,git,github,java,js,ts,tailwind,figma&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,nodejs,express,flutter,postgres,mysql,mongodb,redis,docker,linux,git,github,js,ts,tailwind,figma&perline=10"/>
 
 </div>
 
 ---
 
-# 🚀 What I’m Building
+# 💼 Professional Experience
+
+| Company | Position | Duration |
+|----------|----------|----------|
+| 🚀 AmarProsno | Founder & CEO | 2025 – Present |
+| 💻 KerdLab | Full-Stack Developer | 2024 – Present |
+| 🌙 Syftet Ltd. | Project Leader | 2026 – Present |
+| 🌍 NewSoftSolution (Netherlands) | Software Engineer | 2025 |
+| 💼 Clevpro | Junior Software Engineer | 2024 |
+| 🌐 Freelance | Full-Stack Developer | 2020 – Present |
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project                | 🔥 Description                    |
-| ------------------------- | --------------------------------- |
-| **AmarProsno**            | AI Powered Educational Platform   |
-| **Smart OMR System**      | Automated Exam Processing         |
-| **Institution ERP**       | School & Coaching Management      |
-| **AI Question Generator** | Smart MCQ & CQ Generation         |
-| **Analytics Dashboard**   | Deep Student Performance Insights |
+| 🚀 Project | 🔥 Description |
+|------------|----------------|
+| **AmarProsno** | AI-Powered Educational Platform |
+| **Institution ERP** | School, College & Coaching Management |
+| **Smart OMR System** | Automated Exam Processing |
+| **AI Question Generator** | Intelligent MCQ & CQ Generation |
+| **Student Analytics** | Performance Tracking & Insights |
+| **AI Automation Suite** | LLM & Workflow Automation |
 
 </div>
+
+---
+
+# 🛠 What I Build
+
+- 🌐 Enterprise Web Applications
+- 📱 Flutter Mobile Applications
+- 🤖 AI-powered Software Solutions
+- 🏫 Education Technology Platforms
+- ⚙️ Backend APIs & Microservices
+- ☁️ Cloud-ready Scalable Systems
+- 📊 Analytics Dashboards
+- 🔍 Automation & Data Processing
+
+---
+
+# ⚡ Technical Expertise
+
+```text
+Frontend
+├── React.js
+├── Next.js
+├── Vue.js
+├── Tailwind CSS
+└── Redux
+
+Backend
+├── Django
+├── Django REST Framework
+├── Node.js
+├── Express.js
+└── REST APIs
+
+Mobile
+├── Flutter
+└── React Native
+
+Database
+├── PostgreSQL
+├── MySQL
+├── MongoDB
+└── Redis
+
+DevOps
+├── Docker
+├── Git
+├── GitHub
+├── Linux
+└── DigitalOcean
+
+AI & Automation
+├── LLM Integration
+├── AI Application Development
+├── Automation Systems
+├── Scrapy
+└── Selenium
+```
 
 ---
 
@@ -83,11 +159,31 @@ Currently leading **AmarProsno**, an intelligent EdTech platform focused on:
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=avro0184&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=avro0184&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avro0184&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avro0184&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -109,7 +205,7 @@ Currently leading **AmarProsno**, an intelligent EdTech platform focused on:
 <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:contact@amarprosno.com">
+<a href="mailto:jahidji018@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -121,7 +217,27 @@ Currently leading **AmarProsno**, an intelligent EdTech platform focused on:
 
 <div align="center">
 
-### “Technology should empower education, not complicate it.”
+### *"Technology should empower education, simplify complexity, and create opportunities for everyone."*
+
+</div>
+
+---
+
+# ⚡ Current Goals
+
+```text
+🚀 Scaling AmarProsno nationwide
+🤖 Building AI-powered educational products
+🏫 Digitizing educational institutions
+📱 Developing high-quality cross-platform apps
+🌍 Creating software that makes real-world impact
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
 
