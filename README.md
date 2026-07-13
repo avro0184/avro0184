@@ -193,7 +193,7 @@ AI & Automation
 
 <div align="center">
 
-<a href="https://facebook.com/AvRoNILLJaHiD">
+<a href="https://facebook.com/avro0184">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
